@@ -1,0 +1,10 @@
+click==7.1.2
+Flask==2.0.3
+youtube_dl
+lyricsgenius
+numpy==1.19.2
+numba==0.53.0
+protobuf==3.20.1
+spleeter
+python-dotenv
+gunicorn

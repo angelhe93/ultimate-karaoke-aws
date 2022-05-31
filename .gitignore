@@ -1,0 +1,15 @@
+venv/
+split_audio/
+yt_mp3/
+pretrained_models/
+keys.py
+__pycache__/
+.env
+.gcloudignore
+app.yaml
+
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
